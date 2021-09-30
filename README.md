@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonHellqvist
 - 👀 I’m interested in web development, both front- and backend
-- 🌱 I’m currently learning react, express, and node
+- 🌱 I’m currently learning react, redux, node, and express
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me, Discord: NisseV2#6585
 
