@@ -9,6 +9,8 @@
 
 - I'm currently running Fedora 36 and a MacBook Air M1
 
+- Contact me on Discord: NisseV2#6585
+
 #### Languages I use
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
