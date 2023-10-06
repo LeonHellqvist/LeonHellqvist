@@ -7,7 +7,7 @@
 
 - I'm fluent in both English and Swedish, and currently learning a little bit of Spanish
 
-- I'm currently running Fedora 36 and a MacBook Air M1
+- I'm currently running Arch with Gnome and a MacBook Air M1
 
 - Contact me on Discord: NisseV2#6585
 
