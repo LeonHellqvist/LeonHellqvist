@@ -7,7 +7,7 @@
 
 - I'm fluent in both English and Swedish
 
-- I'm currently running Fedora 42, a MacBook Air M1, and a Corebooted HP Eliteboot 820 G2 with Qubes OS 
+- I'm currently running Fedora 42, a MacBook Air M1, and a Corebooted HP Elitebook 820 G2 with Qubes OS 
 
 <!---
 #### Languages I use
