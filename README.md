@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm @LeonHellqvist
 
 ### About Me
-- I'm a student from Sweden 🇸🇪
+- I'm a student and freelance developer from Sweden 🇸🇪
 
 - I'm fluent in both English and Swedish
 
