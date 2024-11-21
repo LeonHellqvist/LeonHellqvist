@@ -7,10 +7,9 @@
 
 - I'm fluent in both English and Swedish
 
-- I'm currently running Fedora 39 with Gnome and a MacBook Air M1 with Fedora Asahi
+- I'm currently running Fedora 42, a MacBook Air M1, and a Corebooted HP Eliteboot 820 G2 with Qubes OS 
 
-- Contact me on Discord: NisseV2#6585
-
+<!---
 #### Languages I use
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -50,3 +49,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" alt="DiscordJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
 </div>
+--->
